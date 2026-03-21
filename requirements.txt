@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+Pillow
+opencv-python-headless==4.8.1.78
+numpy==1.26.4
